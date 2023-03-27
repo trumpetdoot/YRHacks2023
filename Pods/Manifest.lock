@@ -1,0 +1,24 @@
+PODS:
+  - GoogleMaps (7.4.0):
+    - GoogleMaps/Maps (= 7.4.0)
+  - GoogleMaps/Base (7.4.0)
+  - GoogleMaps/Maps (7.4.0):
+    - GoogleMaps/Base
+  - HTMLKit (4.2.0)
+
+DEPENDENCIES:
+  - GoogleMaps (= 7.4.0)
+  - HTMLKit (= 4.2.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - GoogleMaps
+    - HTMLKit
+
+SPEC CHECKSUMS:
+  GoogleMaps: 032f676450ba0779bd8ce16840690915f84e57ac
+  HTMLKit: e11ec9ed1a9be779e7dd65acdea5757fb113030e
+
+PODFILE CHECKSUM: 1bd8ed9bbfe7fe343d7277f130d3128b9f8e147b
+
+COCOAPODS: 1.12.0
